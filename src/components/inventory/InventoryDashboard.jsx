@@ -47,7 +47,7 @@ export default function InventoryDashboard() {
     <div className="inv">
       <header className="inv-head">
         <div>
-          <h1 className="inv-title">Inventory</h1>
+          <h1 className="inv-title">Inventory Dasboard testing</h1>
           <p className="inv-sub">Stock held in warehouses, by lot. One lot = one approved purchase invoice.</p>
         </div>
         <div className="inv-actions">
